@@ -83,7 +83,7 @@ article.post:last-of-type {
 .site-header nav ul li.current-menu-item a:visited,
 .site-header nav ul li.current-page-ancestor a:link,
 .site-header nav ul li.current-page-ancestor a:visited{
-	background-color: #006ec3;
+	background-color: pink;
 	color: white;
 }
 
