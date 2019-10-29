@@ -12,6 +12,7 @@
 	</nav>
 	
 	<p><?php bloginfo('name'); ?> &copy; <?php echo date('Y');?> </p>
+	<p>dondersssssss</p>
 </footer>
 
 </div> <!-- container -->

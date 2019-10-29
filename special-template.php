@@ -23,7 +23,7 @@ if (have_posts()) :
 				Tempor quae nisi excepteur tamen. Ex ut culpa illum anim an varias qui pariatur 
 				eu sint, quamquam lorem eram aut quis an iis elit quid sunt laboris. Ex mentitum 
 				si deserunt ea senserit adipisicing quo singulis, irure admodum philosophari, 
-				ita aut labore offendit.</p>
+				ita aut labore offendit. :))))</p>
 		
 		</div>
 		
