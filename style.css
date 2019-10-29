@@ -19,6 +19,7 @@ a:visited {
 p {
 	line-height: 1.65em;
   font-size: 12px;
+	color: white;
 }
 
 /* Layout General */
@@ -27,6 +28,7 @@ div.container {
 	max-width: 920px;
 	margin: 0 auto;
 	padding: 0 20px;
+	background-color: black;
 }
 
 article.post {
@@ -183,7 +185,6 @@ img {
 	top: 0;
 	left: 0;
 }
-
-h1{
-
+.h5{
+  color: green;
 }
