@@ -1,7 +1,7 @@
 /*
 Theme name: Supahcooletheme
 Author: Yvo Max Meryana
-Author uri: 
+Author uri:
 Version: 1.0
 */
 
@@ -13,11 +13,12 @@ body {
 
 a:link,
 a:visited {
-	color: #006ec3;
+	color: pink;
 }
 
 p {
 	line-height: 1.65em;
+  font-size: 12px;
 }
 
 /* Layout General */
@@ -35,7 +36,7 @@ article.post:last-of-type {
 	border-bottom: none;
 }
 
-/* Header */ 
+/* Header */
 .site-header {
 	border-bottom: 2px solid #999;
 }
@@ -111,7 +112,7 @@ div.info-box {
 	margin: 0 0 30px 30px;
 	padding: 20px;
 	background-color: #EEE;
-	
+
 }
 
 div.info-box h4 {
@@ -127,13 +128,13 @@ div.info-box p {
 .children-links {
 	margin: 20px;
 	font-size: 90%;
-	
+
 }
 
 .children-links a:link,
 .children-links a:visited {
 	text-decoration: none;
-	
+
 }
 .children-links ul {
 	float: left;
@@ -183,4 +184,6 @@ img {
 	left: 0;
 }
 
+h1{
 
+}
