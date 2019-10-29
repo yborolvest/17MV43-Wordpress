@@ -19,6 +19,7 @@ a:visited {
 p {
 	line-height: 1.65em;
   font-size: 12px;
+	color: white;
 }
 
 /* Layout General */
